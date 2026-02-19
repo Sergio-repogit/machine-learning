@@ -1,0 +1,68 @@
+# Clustering Models
+
+Este subproyecto contiene implementaciones de **técnicas de clustering no supervisado** aplicadas a distintos conjuntos de datos, desarrolladas principalmente en R.
+
+El objetivo es identificar estructuras latentes en los datos y comparar el comportamiento de distintos algoritmos de agrupamiento.
+
+---
+
+## Contenido
+
+### Proyectos incluidos
+
+* `Clusters_jerarquico_dataset_Propia`
+* `Clusters_no_jerarquico_dataset_cloud`
+* `Clusters_no_jerarquico_dataset_Propia`
+
+---
+
+## Modelos implementados
+
+* K-means
+* Gaussian Mixture Models (GMM)
+* DBSCAN
+* Clustering jerárquico
+* Spectral clustering
+
+---
+
+## Objetivos del proyecto
+
+* Detectar grupos naturales en los datos
+* Comparar métodos jerárquicos y no jerárquicos
+* Evaluar la calidad del clustering
+* Analizar la sensibilidad a hiperparámetros
+* Visualizar la estructura de los clusters
+
+---
+
+## Tecnologías utilizadas
+
+* R
+* cluster
+* factoextra
+* mclust
+* tidyverse
+* ggplot2
+
+---
+
+## Cómo ejecutar
+
+1. Clonar o descargar el repositorio.
+2. Abrir el notebook o script correspondiente en RStudio.
+3. Ejecutar las celdas en orden para reproducir el análisis.
+
+---
+
+## Notas
+
+* Algunos datasets son propios del proyecto.
+* Los resultados pueden variar ligeramente según la inicialización (por ejemplo, en K-means).
+
+---
+
+## Autor
+
+Sergio Mínguez Cruces
+Grado en Matemáticas | Data Science & Machine Learning
