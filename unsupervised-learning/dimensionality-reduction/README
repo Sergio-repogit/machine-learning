@@ -1,0 +1,62 @@
+# Dimensionality Reduction
+
+Este subproyecto contiene implementaciones de **técnicas de reducción de dimensionalidad**, centradas en el uso de **Principal Component Analysis (PCA)** sobre datos reales.
+
+El objetivo es reducir la dimensión de los datos preservando la máxima varianza posible y facilitar su interpretación y visualización.
+
+---
+
+## Contenido
+
+### Proyecto incluido
+
+* `PCA_dataset_AppXperience`
+* Dataset asociado: `datos_pca.csv`
+
+---
+
+## Técnica implementada
+
+* Principal Component Analysis (PCA)
+
+---
+
+## Objetivos del proyecto
+
+* Reducir la dimensionalidad de datos multivariantes
+* Analizar la varianza explicada por los componentes principales
+* Visualizar los datos en espacios de menor dimensión
+* Interpretar la contribución de las variables originales
+
+---
+
+## Tecnologías utilizadas
+
+* R
+* stats
+* factoextra
+* tidyverse
+* ggplot2
+
+---
+
+## Cómo ejecutar
+
+1. Clonar o descargar el repositorio.
+2. Verificar que `datos_pca.csv` esté en el directorio de trabajo.
+3. Abrir el notebook o script en RStudio.
+4. Ejecutar las celdas en orden.
+
+---
+
+## Notas
+
+* PCA se aplica tras el adecuado preprocesamiento y escalado de variables.
+* Los resultados dependen de la estandarización previa de los datos.
+
+---
+
+## Autor
+
+Sergio Mínguez Cruces
+Grado en Matemáticas mencion Data Science & Machine Learning
